@@ -1,16 +1,16 @@
-# React + Vite
+# FoodieExpress - Modern Food Delivery Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FoodieExpress aik modern, fast aur fully responsive food delivery application hai jo React.js aur Tailwind CSS se bani hai. Is mein user-friendly navigation aur attractive UI designs shamil hain.
 
-Currently, two official plugins are available:
+## Features
+- **Responsive Navbar:** Desktop aur Mobile dono ke liye optimized (with Hamburger Menu).
+- **Dynamic Menu:** Categories ke hisab se food items filter karne ki suhulat.
+- **Deals Section:** Special offers aur discount badges ke saath.
+- **Modern UI:** Tailwind CSS aur Lucide/React Icons ka istemal.
+- **Multi-page:** React Router DOM ke zariye smooth navigation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+- **Frontend:** React.js (Vite)
+- **Styling:** Tailwind CSS
+- **Icons:** React Icons / Lucide React
+- **Routing:** React Router DOM
